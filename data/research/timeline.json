@@ -1,0 +1,31 @@
+[
+  {
+    "period": "Aug 2024",
+    "color": "purple",
+    "title": "Literature review and problem formulation",
+    "description": "Studied the paper \"Stability and Performance of Compound TCP With a Proportional Integral Queue Policy\" and identified the opportunity to push queuing delay to its theoretical limit using a Threshold Based Queuing policy.",
+    "tags": ["Survey", "Compound TCP", "Queue Policy", "Related work"]
+  },
+  {
+    "period": "Q4 2024",
+    "color": "amber",
+    "title": "Mathematical modeling and AIMD parameter extraction",
+    "description": "Developed a mathematical model to analyze saw-teeth timeseries data and extract AIMD (Additive Increase Multiplicative Decrease) parameters, enabling integration of the Threshold Based Queuing policy with the existing TCP-IP protocol stack.",
+    "tags": ["Mathematical modeling", "AIMD", "Timeseries analysis", "C++", "Python"]
+  },
+  {
+    "period": "Q1 2025",
+    "color": "pink",
+    "title": "NS3 simulation and evaluation",
+    "description": "Implemented Threshold Based Queuing policy in NS3 simulation. Achieved 50% less queuing delay without compromising on throughput, compared to drop-tail.",
+    "tags": ["NS3", "Simulation", "50% delay reduction", "Throughput preserved"]
+  },
+  {
+    "period": "Q1 2026",
+    "color": "teal",
+    "dotFilled": true,
+    "title": "Paper publication",
+    "description": "Published \"A mechanism for TCP-aware adaptive management of queues in Internet routers\" at IEEE.",
+    "tags": ["Paper accepted", "IEEE", "<a href=\"https://ieeexplore.ieee.org/document/11418299\" style=\"color: #B22222; font-weight: bold;\">IEEE Paper</a>", "<a href=\"https://github.com/Swarnarup/ns3-mod\" style=\"color: #6E5494; font-weight: bold;\">GitHub</a>"]
+  }
+]

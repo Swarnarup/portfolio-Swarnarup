@@ -1,0 +1,17 @@
+[
+  {
+    "period": "June 2023",
+    "color": "purple",
+    "title": "Founding member — Technod8 (EdTech Startup)",
+    "description": "Worked as one of the founding members at Technod8, an EdTech startup. Worked side by side with the CTO, building an automated factory simulation as initial drafts of the company's vision.",
+    "tags": ["Founding Member", "EdTech", "Factory Simulation", "<a href=\"https://tecnod8.com/\" style=\"color: #B22222; font-weight: bold;\">Technod8</a>"]
+  },
+  {
+    "period": "Jan – June 2024",
+    "color": "amber",
+    "dotFilled": true,
+    "title": "Consultant — Brainwave Science",
+    "description": "Worked as a Consultant at Brainwave Science. Our team generated 1.5x acceleration in product sales.",
+    "tags": ["Consulting", "Product Sales", "1.5x Acceleration", "<a href=\"https://brainwavescience.com\" style=\"color: #B22222; font-weight: bold;\">Brainwave Science</a>"]
+  }
+]

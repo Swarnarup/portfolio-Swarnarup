@@ -1,0 +1,30 @@
+{
+  "card": {
+    "type": "Work",
+    "title": "Two Years at Arista",
+    "subtitle": "SD-WAN DP Core — OpenWRT platform management and configurations",
+    "duration": "2025-2027",
+    "color": "teal"
+  },
+  "header": {
+    "company": "Arista Networks",
+    "companyUrl": "https://www.arista.com/en/",
+    "role": "Software Engineer",
+    "location": "Bengaluru, India",
+    "duration": "July 2025 – Present",
+    "team": "SD-WAN DP Edge Charter",
+    "product": "VeloCloud (Software Defined WAN)"
+  },
+  "hero": {
+    "line1": "Two Years",
+    "line2": "at Arista",
+    "description": "From a single module assignment to genuine cross-stack fluency — a record of what was built, fixed, and learned."
+  },
+  "footer": {
+    "left": "Arista Networks &nbsp;&middot;&nbsp; 2025-2027",
+    "right": "SD-WAN DP Edge Charter"
+  },
+  "meta": {
+    "title": "Six months at Arista"
+  }
+}

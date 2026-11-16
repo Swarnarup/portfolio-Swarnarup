@@ -1,0 +1,25 @@
+{
+  "card": {
+    "type": "Work",
+    "title": "Other Experiences",
+    "subtitle": "EdTech startup founding member & consulting",
+    "duration": "2023–2024",
+    "color": "purple"
+  },
+  "header": {
+    "company": "Technod8 & Brainwave Science",
+    "team": "Startup & Consulting"
+  },
+  "hero": {
+    "line1": "Other",
+    "line2": "Experiences",
+    "description": "Founding member at an EdTech startup building automated factory simulations, and a consultant at Brainwave Science driving 1.5x acceleration in product sales."
+  },
+  "footer": {
+    "left": "Technod8 &nbsp;&middot;&nbsp; Brainwave Science &nbsp;&middot;&nbsp; 2023–2024",
+    "right": "Startup & Consulting"
+  },
+  "meta": {
+    "title": "Other Experiences — Technod8 & Brainwave Science"
+  }
+}

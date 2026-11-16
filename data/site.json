@@ -1,0 +1,14 @@
+{
+  "name": "Swarnarup Bhunia",
+  "tagline": "Software engineer and researcher",
+  "experiences": ["arista", "previous-company", "research", "Game Development"],
+  "social": [
+    { "label": "GitHub", "url": "https://github.com/yourname" },
+    { "label": "LinkedIn", "url": "https://linkedin.com/in/yourname" },
+    { "label": "Email", "url": "mailto:you@example.com" }
+  ],
+  "footer": {
+    "left": "Swarnarup Bhunia",
+    "right": ""
+  }
+}

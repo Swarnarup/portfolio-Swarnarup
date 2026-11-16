@@ -1,0 +1,55 @@
+[
+  {
+    "period": "2024",
+    "color": "purple",
+    "title": "Object-Oriented Abstraction of TETRIS",
+    "description": "Abstracted the game into pieces using Object-Oriented Programming, making it more optimized, scalable and easy to maintain.",
+    "tags": ["C++", "Raylib", "OOP", "<a href=\"https://github.com/Swarnarup/Object-Oriented-Abstraction-of-TETRIS.git\" style=\"color: #6E5494; font-weight: bold;\">GitHub</a>"],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/Swarnarup/Object-Oriented-Abstraction-of-TETRIS.git"
+      }
+    ]
+  },
+  {
+    "period": "2025",
+    "color": "teal",
+    "dotFilled": true,
+    "title": "Slime Back in Time",
+    "description": "Inter IIT Tech Meet 13.0 project: In the distant future, scientists have developed a sentient slime which can travel back in time to uncover hidden history of human civilization. Created the jiggle physics system by manipulating basic spring simulation instead of computationally heavy collision-based physics, for realistic yet real-time slime animation and movements.",
+    "tags": ["C#", "Unity3D", "Blender", "Inter IIT Tech Meet 13.0", "Physics Simulation", "<a href=\"https://swarnarup-bhunia.itch.io/slime-back-in-time\" style=\"color: #B22222; font-weight: bold;\">Play ▷▶︎</a>"],
+    "links": [
+      {
+        "label": "Play",
+        "url": "https://swarnarup-bhunia.itch.io/slime-back-in-time"
+      }
+    ]
+  },
+  {
+    "period": "2022",
+    "color": "amber",
+    "title": "Repercussion — Save Green Planet themed game",
+    "description": "<ul><li>Portraying the need of awareness in Climate Change. A balance between the environment and modernization is required to avoid the planet dying. Developed for INAE GameJam Hackathon 2022.</li><li>Audience appreciated the smoothness and responsiveness of our game more than other submissions.</li></ul>",
+    "tags": ["Unity3D", "Blender", "Hackathon", "<p style=\"font-weight: 800; color: green;\">Climate Change</p>", "<a href=\"https://adityasahu.itch.io/repercussion\" style=\"color: #B22222; font-weight: bold;\">Itch.io</a>"],
+    "links": [
+      {
+        "label": "Itch.io",
+        "url": "https://adityasahu.itch.io/repercussion"
+      }
+    ]
+  },
+  {
+    "period": "2023",
+    "color": "pink",
+    "title": "Souls and Beyond",
+    "description": "IGDC (event under Inter IIT Tech Meet 11.0) project: a puzzle game based on the themes of Puzzle, Control the Time and Symmetry. Made an efficient way of rendering 1 million polygons in game-scene, eliminating lag.",
+    "tags": ["C#", "Unity3D", "Blender", "Inter IIT Tech Meet 11.0", "Puzzle", "<a href=\"https://cg2d-iit-mandi.itch.io/souls-and-beyond\" style=\"color: #B22222; font-weight: bold;\">Itch.io</a>"],
+    "links": [
+      {
+        "label": "Itch.io",
+        "url": "https://cg2d-iit-mandi.itch.io/souls-and-beyond"
+      }
+    ]
+  }
+]

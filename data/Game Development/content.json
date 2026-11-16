@@ -1,0 +1,30 @@
+{
+  "card": {
+    "type": "GameDev",
+    "title": "Coolness of simulation in Games",
+    "subtitle": "Venture into art and mathematics.",
+    "color": "amber"
+  },
+  "header": {
+    "company": "CG2D & IIT Mandi 3D Animation Club",
+    "team": "--\\_><_/--"
+  },
+  "hero": {
+    "line1": "Simulation at work for",
+    "line2": "GameDev & 3D Animation",
+    "description": "Once I understood how this entire paradigm of simulation, especially physica simulations work, it's like an entire new world opened up to me. The fire water explosion animation, fairies and robots, procedurally generated big futuristic cities all originates from this extraordinary amalgamation of mathematics and artful endeavours."
+  },
+  "#paper": {
+    "title": "Adaptive Task Scheduling for Latency-Sensitive Edge Computing Workloads",
+    "venue": "IEEE International Conference on Communications (ICC), 2023",
+    "url": "https://doi.org/your-paper-doi",
+    "collaborators": ["Prof. Jane Smith (advisor)", "Alex Johnson"]
+  },
+  "footer": {
+    "left": "CG2D &nbsp;&middot;&nbsp; Animation Club",
+    "right": "IIT Mandi"
+  },
+  "meta": {
+    "title": "GameDev - Art & Mathematics"
+  }
+}

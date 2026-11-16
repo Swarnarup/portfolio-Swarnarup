@@ -1,0 +1,68 @@
+[
+  {
+    "period": "Month 1–2",
+    "color": "purple",
+    "title": "Assigned to DP Core — VCMP module",
+    "description": "Onboarded onto the dataplane core team with the VCMP module. Started with small, well-scoped tasks to build familiarity with the codebase, the test infrastructure, and how SD-WAN traffic actually flows.",
+    "tags": ["VCMP internals", "Dataplane orientation", "First small fixes"]
+  },
+  {
+    "period": "Early stage",
+    "color": "coral",
+    "title": "Customer-facing defects (CFDs)",
+    "description": "Took on escalation-level issues with real customer impact — tunnel reliability, zero-byte flow reporting. Each one required deep root-cause analysis before any fix or handoff.",
+    "tags": ["VLENG-169404 — TX bytes", "VLENG-165799 — zero byte flows", "VLENG-167713 — tunnel events"]
+  },
+  {
+    "period": "Ongoing",
+    "color": "amber",
+    "title": "VCMP regression — co-owning the baseline",
+    "description": "Drove VCMP regression alongside a colleague in the early stages, helping establish a stable test baseline for the module. This was the first real exposure to how the module behaves end-to-end under test conditions.",
+    "tags": ["Regression runs", "Test triage", "Collaboration"]
+  },
+  {
+    "period": "Mid-cycle",
+    "color": "pink",
+    "title": "IPv6 & dual-stack coverage",
+    "description": "IPv6 support across the feature was patchy and inconsistent. Fixed a cluster of interconnected issues, supporting dual-stack traffic: a double-applied PMTU constraint causing wrong MSS, broken fragmentation MSS parsing after a logging change, crashing IPv6 flow verification helpers, and misconfigured failover MTU paths.",
+    "tags": ["VLEI-47388 — PMTU double-constraint", "VLEI-47383 — MSS parsing", "VLEI-47392 — IPv6 flow verify", "VLEI-47391 — failover MTU"]
+  },
+  {
+    "period": "Recent",
+    "color": "green",
+    "title": "BizPolicy module — full ownership, green run",
+    "description": "Took complete ownership of the BizPolicy test module — an unfamiliar module — diagnosed its failures, and drove it to a clean green run. Not just fixing what was assigned, but taking responsibility for the module's overall health and test stability.",
+    "tags": ["Module ownership", "Green run achieved", "HA failover fix", "QoS link lookup"]
+  },
+  {
+    "period": "Recent",
+    "color": "teal",
+    "title": "SD-WAN analytics — PR-ready investigation",
+    "description": "Led a comprehensive investigation into VCO metric discrepancies spanning flow stats, linkstats, chatstats, and iptables. Delivered a PR-ready validation suite, customer-facing documentation, and surfaced two independent bugs — a chatstats defect and a mis-propagated fragmentation flag.",
+    "tags": ["Wire vs VCO validation", "Chatstats bug", "Customer docs", "PR #3892"]
+  },
+  {
+    "period": "Ongoing",
+    "color": "blue",
+    "title": "OpenWRT platform & automation infrastructure",
+    "description": "Worked on OpenWRT-based hardware, Hypervisor and Cloud platform supported routing systems' infrastructure for the VeloCloud product — the product that made Software Defined WAN mainstream. Focused on maintaining and automating system configurations and automation infrastructure across devices.",
+    "tags": ["OpenWRT", "VeloCloud", "Hypervisor", "Cloud Platform", "System Automation"]
+  },
+  {
+    "period": "Recent",
+    "color": "indigo",
+    "title": "SBOM — Packages-Libraries-Dependencies analysis",
+    "description": "Added a Packages-Libraries-Dependencies analysis system for OpenWRT platforms that helps detect vulnerabilities within software, contributing to Arista's central SBOM (Software Bill of Materials) system.",
+    "tags": ["SBOM", "Vulnerability Detection", "OpenWRT", "Dependency Analysis"]
+  },
+  {
+    "period": "Now",
+    "color": "teal",
+    "dotFilled": true,
+    "title": "Working across the full stack",
+    "description": "What started as a single module assignment has grown into genuine cross-stack fluency. Every bug followed to its actual root cause, regardless of where it lived.",
+    "tags": [],
+    "modules": ["VCMP", "BizPolicy", "WAN Overlay", "HA / Failover", "Gateway", "VCO", "QoS", "PKI / Certs", "HAPY Infra", "IPv6 Stack", "Fragmentation", "Analytics"],
+    "modulesLabel": "Modules touched in 6 months"
+  }
+]

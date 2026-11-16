@@ -1,0 +1,32 @@
+{
+  "card": {
+    "type": "Research",
+    "title": "TCP-aware Adaptive Queue Management in Internet Routers",
+    "subtitle": "IIT Mandi — published @ IEEE - reviewed @ COMSNETS",
+    "duration": "Aug 2024 – Mar 2026",
+    "color": "amber"
+  },
+  "header": {
+    "company": "IIT Mandi, India",
+    "team": "Congestion Control in Packet Switched Networks"
+  },
+  "hero": {
+    "line1": "TCP-aware Adaptive",
+    "line2": "Queue Management",
+    "description": "A mechanism for TCP-aware adaptive management of queues in Internet routers. Implemented Threshold Based Queuing policy in NS3 simulation, achieving 50% less queuing delay without compromising on throughput compared to drop-tail."
+  },
+  "paper": {
+    "title": "A mechanism for TCP-aware adaptive management of queues in Internet routers",
+    "venue": "IEEE",
+    "url": "https://ieeexplore.ieee.org/document/11418299",
+    "relatedWork": "https://ieeexplore.ieee.org/document/8424551",
+    "collaborators": []
+  },
+  "footer": {
+    "left": "IIT Mandi, India &nbsp;&middot;&nbsp; Aug 2024 – Mar 2026",
+    "right": "C++, NS3, Python"
+  },
+  "meta": {
+    "title": "Research — TCP-aware Adaptive Queue Management"
+  }
+}
